@@ -45,7 +45,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adictos-Al-Codigo&theme=outrun&hide_border=true&locale=es)](https://git.io/streak-stats)
 ![Adictos-Al-Codigo GitHub stats](https://github-readme-stats.vercel.app/api?username=Adictos-Al-Codigo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adictos-Al-Codigo&hide_progress=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adictos-Al-Codigo&hide_progress=true)
 
 </div> 
  
