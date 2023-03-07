@@ -12,3 +12,7 @@
         alt="Youtube Adictos al Código"> 
     </a>
 </div> 
+
+<div align="left">
+    <h3>🛠️ Languajes and tools</h3>
+</div>
