@@ -26,7 +26,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C++" alt="C++" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="LARAVEL10" alt="LARAVEL" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TAILWIND3" alt="TALWIND3" width="40" height="40">&nbsp;
-
-    </div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt="MYSQL" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLSERVER" alt="SQLSERVER" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NODEJS" alt="NODEJS" width="40" height="40">&nbsp;
+        </div>
 </div>
 
