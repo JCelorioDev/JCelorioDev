@@ -39,6 +39,9 @@
         </div>
 </div>
 
+---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/9708/9708077.png"> My Stats :
+### <img width="100px" height="100px" src="https://www.flaticon.es/icono-gratis/grafico_2257295?term=estad%C3%ADstica&page=1&position=5&origin=tag&related_id=2257295" alt="Estadistico"> My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adictos-Al-Codigo&theme=outrun&hide_border=true&locale=es)](https://git.io/streak-stats)
 
