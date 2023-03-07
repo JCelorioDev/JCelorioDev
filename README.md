@@ -30,7 +30,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt="MYSQL" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLSERVER" alt="SQLSERVER" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NODEJS" alt="NODEJS" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/tree/master/icons/git" title="GIT" alt="GIT" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="GIT" width="40" height="40">&nbsp;
         </div>
 </div>
 
