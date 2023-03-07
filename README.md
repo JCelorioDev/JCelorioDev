@@ -7,7 +7,7 @@
 </div>
 
 <div id="badges" align="center">
-    <a href="https://www.youtube.com/channel/UCIYsodh6M8pWgJ0Dwpst8Uw" target="_blank"> 
+    <a href="https://www.youtube.com/channel/UCIYsodh6M8pWgJ0Dwpst8Uw" target="_blank">  
         <img src="https://img.shields.io/youtube/channel/subscribers/UCIYsodh6M8pWgJ0Dwpst8Uw?style=for-the-badge" 
         alt="Youtube Adictos al Código"> 
     </a>
