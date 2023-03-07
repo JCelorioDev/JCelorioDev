@@ -8,8 +8,10 @@
 
 <div id="badges" align="center">
     <a href="https://www.youtube.com/channel/UCIYsodh6M8pWgJ0Dwpst8Uw" target="_blank">  
-        <img src="https://img.shields.io/youtube/channel/subscribers/UCIYsodh6M8pWgJ0Dwpst8Uw?style=for-the-badge" 
-        alt="Youtube Adictos al Código"> 
+        <span><img src="https://img.shields.io/youtube/channel/subscribers/UCIYsodh6M8pWgJ0Dwpst8Uw?style=for-the-badge" 
+         alt="Youtube Adictos al Código"></span>
+        <span><img src="https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FAdictosAlCodigo" 
+         alt="Youtube Adictos al Código"></span>
     </a>
 </div> 
 
