@@ -41,7 +41,9 @@
 
 ---
 
-### <img width="20px" height="20px" src="https://cdn-icons-png.flaticon.com/512/9708/9708077.png" alt="Estadistico"> My Stats :
+<div align="center">
+    ### <img width="100px" height="100px" src="" alt="Estadistico"> My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adictos-Al-Codigo&theme=outrun&hide_border=true&locale=es)](https://git.io/streak-stats)
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adictos-Al-Codigo&theme=outrun&hide_border=true&locale=es)](https://git.io/streak-stats)
+</div>
 
