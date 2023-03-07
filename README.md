@@ -13,10 +13,16 @@
     </a>
 </div> 
 
+
 <div align="left">
     <h3>🛠️ Languajes and tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="ANGULAR15" alt="ANGULAR" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="ANGULAR15" alt="ANGULAR" width="40" height="40">&nbsp;
-    </div>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JAVASCRIPT" alt="JAVASCRIPT" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JAVASCRIPT" alt="JAVASCRIPT" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="JAVASCRIPT" alt="JAVA" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C++" alt="C++" width="40" height="40">&nbsp;
+    </div>
 </div>
