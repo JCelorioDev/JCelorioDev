@@ -31,6 +31,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLSERVER" alt="SQLSERVER" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NODEJS" alt="NODEJS" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="GIT" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/tree/master/icons/php" title="PHP" alt="PHP" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/tree/master/icons/php" title="PHP" alt="PHP" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TYPESCRIPT" alt="TYPESCRIPT" width="40" height="40">&nbsp;
         </div>
 </div>
 
