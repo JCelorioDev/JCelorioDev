@@ -42,6 +42,8 @@
 --- 
 
 <div align="center">
+    
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adictos-Al-Codigo&theme=outrun&hide_border=true&locale=es)](https://git.io/streak-stats)
+
 </div>
 
