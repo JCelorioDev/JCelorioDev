@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" width="200px" alt="">
-    <h1 align="center">Hi 👋, I'm Adictos al Código</h1>
+    <h1 align="center">Hi 👋, I'm Jahir Celorio Malavé</h1>
     <h3 align="center">
         A passionate web junior developer from Ecuador. I like teaching what T learn in my channel of Youtube.
     </h3>
@@ -12,7 +12,7 @@
          alt="Youtube Adictos al Código"></span>
         <span><img src="https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FAdictosAlCodigo" 
          alt="Youtube Adictos al Código"></span>
-         <span><img src="https://img.shields.io/website?style=for-the-badge&up_message=Portafolio&url=https%3A%2F%2Fadictos-al-codigo.github.io%2F" 
+         <span><img src="https://img.shields.io/website?style=for-the-badge&up_message=Portafolio&url=https://adictos-al-codigo.github.io/" 
          alt="Adictos al Codigo"></span>
     </a>
 </div> 
