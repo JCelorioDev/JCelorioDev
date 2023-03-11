@@ -6,17 +6,6 @@
     </h3>
 </div>
 
----------------
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres174&show_icons=true&theme=dark&locale=en&layout=compact" alt="andres174" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andres174&show_icons=true&theme=dark&locale=en" alt="andres174" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andres174&theme=dark" alt="andres174" /></p>
-
-
---------------
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Adictos-Al-Codigo&label=Profile%20views&color=b2b6b8&style=flat-square" alt="Adictos_Al_Codigo" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adictos-Al-Codigo" alt="Adictos_Al_Codigo" /></a> </p>
