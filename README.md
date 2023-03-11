@@ -6,6 +6,16 @@
     </h3>
 </div>
 
+-------------------
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andres174&label=Profile%20views&color=b2b6b8&style=flat-square" alt="andres174" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andres174" alt="andres174" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/axzx_4" target="blank"><img src="https://img.shields.io/twitter/follow/axzx_4?logo=twitter&style=for-the-badge" alt="axzx_4" /></a> </p>
+
+-------------------
+
 <div id="badges" align="center">
     <a href="https://www.youtube.com/channel/UCIYsodh6M8pWgJ0Dwpst8Uw" target="_blank">  
         <span><img src="https://img.shields.io/youtube/channel/subscribers/UCIYsodh6M8pWgJ0Dwpst8Uw?style=for-the-badge" 
