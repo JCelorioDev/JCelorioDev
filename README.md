@@ -10,7 +10,7 @@
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adictos_Al_Codigo&label=Profile%20views&color=b2b6b8&style=flat-square" alt="Adictos-Al-Codigo" />       </p>
 
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adictos-Al-Codigo"             alt="Adictos-Al-Codigo" /></a> </p>
-</div> 
+</div> f
 
 <div id="badges" align="center">
     <a href="https://www.youtube.com/channel/UCIYsodh6M8pWgJ0Dwpst8Uw" target="_blank">  
