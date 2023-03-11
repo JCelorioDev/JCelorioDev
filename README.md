@@ -6,6 +6,16 @@
     </h3>
 </div>
 
+-------------------------------------
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/axzx_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axzx_4" height="30" width="40" /></a>
+<a href="https://instagram.com/axzx_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axzx_4" height="30" width="40" /></a>
+</p>
+
+-----------------------
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Adictos-Al-Codigo&label=Profile%20views&color=b2b6b8&style=flat-square" alt="Adictos_Al_Codigo" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adictos-Al-Codigo" alt="Adictos_Al_Codigo" /></a> </p>
