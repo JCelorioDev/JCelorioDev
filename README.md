@@ -60,6 +60,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adictos-Al-Codigo&hide_progress=true)
 
 </div> 
+
+![Snake animation](https://github.com/marcotorquato/marcotorquato/blob/output/github-contribution-grid-snake.svg)
  
 
 
