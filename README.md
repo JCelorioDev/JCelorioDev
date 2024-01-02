@@ -56,7 +56,7 @@ My constellation of technologies is my toolbox to make the digital realm more hu
 
 <h2 align="center">📈 My GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adictos-Al-Codigo&show_icons=true&theme=gotham" alt="Adictos-Al-Codigo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adictos-Al-Codigo&show_icons=true&theme=codeSTACKr" alt="Adictos-Al-Codigo" />
 </p>
 
 
