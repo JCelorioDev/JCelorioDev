@@ -37,9 +37,9 @@ My constellation of technologies is my toolbox to make the digital realm more hu
 </p>
 
 <p align="center">
-  <strong>Mobile Development:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=ionic" alt="Ionic" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />&nbsp;
+    <strong>Mobile Development:</strong><br/>
+    <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />&nbsp;
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Ionic" />&nbsp;
   <!-- ... other mobile development technologies ... -->
 </p>
 
@@ -50,6 +50,7 @@ My constellation of technologies is my toolbox to make the digital realm more hu
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />&nbsp;
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />&nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;
+  
   <!-- ... other tools and technologies ... -->
 </p>
 
