@@ -38,9 +38,8 @@ My constellation of technologies is my toolbox to make the digital realm more hu
 
 <p align="center">
   <strong>Mobile Development:</strong><br/>
-  <img src="https://img.shields.io/badge/React_Native-2C2C2C?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />&nbsp;
-  <img src="https://img.shields.io/badge/Flutter-2A78D8?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />&nbsp;
   <img src="https://img.shields.io/badge/Ionic-0079BF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />&nbsp;
   <!-- ... other mobile development technologies ... -->
 </p>
 
