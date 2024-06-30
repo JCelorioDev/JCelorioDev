@@ -55,9 +55,17 @@ My constellation of technologies is my toolbox to make the digital realm more hu
   <!-- ... other tools and technologies ... -->
 </p>
 
-<h2 align="center">📈 My GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adictos-Al-Codigo&show_icons=true&theme=codeSTACKr" alt="Adictos-Al-Codigo" />
-</p>
+# 📊 GitHub Estadística:
+
+<div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Adictos-Al-Codigo&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Adictos-Al-Codigo&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Adictos-Al-Codigo&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Adictos-Al-Codigo&theme=onedark" />
+</div>
+
+
+## Mis trofeos
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Adictos-Al-Codigo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
