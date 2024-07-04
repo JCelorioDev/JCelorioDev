@@ -2,7 +2,7 @@
 
 <h2 align="center">Desarrollador Web Junior</h2>
 <p align="center">
-¡Hola! desde niño me ha encantado el mundo de la tecnología y computación, soy un desarrollador web FullStack que ve el desarrollo de software como una forma de arte. Mi enfoque abarca tanto el frontend como el backend, y me esfuerzo por escribir código limpio, eficiente y sostenible. Disfruto resolviendo problemas complejos con soluciones innovadoras y creativas, y valoro profundamente el poder de la colaboración y el trabajo en equipo.
+¡Hola! desde niño me ha encantado el mundo de la tecnología y computación, veo el desarrollo de software como una forma de arte. Mi enfoque abarca tanto el frontend como el backend, y me esfuerzo por escribir código limpio, eficiente y sostenible. Disfruto resolviendo problemas complejos con soluciones innovadoras y creativas, y valoro profundamente el poder de la colaboración y el trabajo en equipo.
 </p>
 
 <h3 align="center">🚀 Tech Stacks and Tools 🕶️</h3>
