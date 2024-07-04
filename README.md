@@ -1,18 +1,13 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Jahir Celorio</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />,Soy Jahir Celorio </h1>
 
-<h2 align="center">Sculpting Software with the Chisel of Code</h2>
+<h2 align="center">Desarrollador Web Junior</h2>
 <p align="center">
-I don't write code, I compose digital symphonies. I dream. I code. I refine. I transcend the binary.
+¡Hola! desde niño me ha encantado el mundo de la tecnología y computación, soy un desarrollador web FullStack que ve el desarrollo de software como una forma de arte. Mi enfoque abarca tanto el frontend como el backend, y me esfuerzo por escribir código limpio, eficiente y sostenible. Disfruto resolviendo problemas complejos con soluciones innovadoras y creativas, y valoro profundamente el poder de la colaboración y el trabajo en equipo.
 </p>
 
-<p align="center">
-My heart beats in the cross-pollination of ideas, where open-source collaboration sparks innovation and bytes blossom into collective masterpieces.
-</p>
+<h3 align="center">CEO de Adictos Al Código</h3>
 
 <h3 align="center">🚀 Tech Stacks and Tools 🕶️</h3>
-<p align="center">
-My constellation of technologies is my toolbox to make the digital realm more human - these are my tools.
-</p>
 
 <p align="center">
   <!-- Grouped badges by type -->
