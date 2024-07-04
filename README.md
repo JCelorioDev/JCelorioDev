@@ -51,14 +51,14 @@
 # 📊 GitHub Estadística:
 
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Adictos-Al-Codigo&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Adictos-Al-Codigo&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Adictos-Al-Codigo&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Adictos-Al-Codigo&theme=onedark" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=JCelorioDev&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JCelorioDev&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=JCelorioDev&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=JCelorioDev&theme=onedark" />
 </div>
 
 
 ## 🏆 Mis trofeos
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Adictos-Al-Codigo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=JCelorioDev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
