@@ -1,8 +1,8 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, Soy Jahir Celorio </h1>
 
-<h2 align="center">Desarrollador Web Junior & Mobile</h2>
+<h2 align="center">Desarrollador Web FullStack</h2>
 <p align="center">
-Me ha encanta el mundo de la tecnología y computación, veo el desarrollo de software como una forma de arte. Mi enfoque abarca tanto el frontend como el backend, y me esfuerzo por escribir código limpio, eficiente y sostenible. Disfruto resolviendo problemas complejos con soluciones innovadoras y creativas, y valoro profundamente el poder de la colaboración y el trabajo en equipo.
+Me ha encanta el mundo de la tecnología, veo el desarrollo de software como una forma de arte. Mi enfoque abarca tanto el frontend como el backend, y me esfuerzo por escribir código limpio, eficiente y sostenible. Disfruto resolviendo problemas complejos con soluciones innovadoras y creativas, y valoro profundamente el poder de la colaboración y el trabajo en equipo.
 </p>
 
 <h3 align="center">🚀 Tech Stacks and Tools 🕶️</h3>
