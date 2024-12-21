@@ -8,7 +8,7 @@
 Me encanta el mundo de la tecnología, veo el desarrollo de software como una forma de arte. Mi enfoque abarca tanto el frontend como el backend, y me esfuerzo por escribir código limpio, eficiente y sostenible. Disfruto resolviendo problemas complejos con soluciones innovadoras y creativas, y valoro profundamente el poder de la colaboración y el trabajo en equipo.
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <h3 align="center">🚀 Tech Stacks and Tools 🕶️</h3>
 
@@ -53,7 +53,7 @@ Me encanta el mundo de la tecnología, veo el desarrollo de software como una fo
   <!-- ... other tools and technologies ... -->
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 # 📊 GitHub Estadística:
 
@@ -64,7 +64,7 @@ Me encanta el mundo de la tecnología, veo el desarrollo de software como una fo
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=JCelorioDev&theme=onedark" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
 ## 🏆 Mis trofeos
