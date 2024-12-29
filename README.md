@@ -1,6 +1,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, Soy Jahir Celorio Malavé <img src="https://github.com/JCelorioDev/JCelorioDev.github.io/blob/main/gifs/output-onlinegiftools.gif" width="45px"/> <img src="https://github.com/JCelorioDev/JCelorioDev.github.io/blob/main/gifs/output-developer.gif" width="45px"/></h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, Soy Jahir Celorio Malavé <img src="https://github.com/JCelorioDev/JCelorioDev.github.io/blob/main/gifs/output-onlinegiftools.gif" width="40px"/> <img src="https://github.com/JCelorioDev/JCelorioDev.github.io/blob/main/gifs/output-developer.gif" width="40px"/></h1>
 <p align="center">
 <h2  align="center">Desarrollador Web FullStack</h2>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
